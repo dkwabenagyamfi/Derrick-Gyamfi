@@ -19,13 +19,12 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Hands-on Labs: MITRE ATT&CK, CVE/NVD Integration</b>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📜 Certifications:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/f32f8400-b3d3-49ea-a1c1-518853c030cb/public_url)
+- [IBM Cybersecurity Analyst Certificate](https://www.credly.com/badges/5ac60cd2-54ae-4f40-b632-f3800218a858/public_url)
+- [Cisco CyberOps Associate](https://www.credly.com/badges/2608974e-4408-4482-96db-c957bbde17e3/public_url)
+- [OPSWAT Introduction to Critical Infrastructure Protection (ICIP)](https://www.credly.com/badges/db57f909-79dd-4be5-990c-23d78e6dbab2/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
