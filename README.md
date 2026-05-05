@@ -23,7 +23,7 @@
 
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/f32f8400-b3d3-49ea-a1c1-518853c030cb/public_url)
 - [IBM Cybersecurity Analyst Certificate](https://www.credly.com/badges/5ac60cd2-54ae-4f40-b632-f3800218a858/public_url)
-- [Cisco CyberOps Associate](https://www.credly.com/badges/2608974e-4408-4482-96db-c957bbde17e3/public_url)
+- [Cisco Junior Cybersecurity Analyst](https://www.credly.com/badges/2608974e-4408-4482-96db-c957bbde17e3/public_url)
 - [OPSWAT Introduction to Critical Infrastructure Protection (ICIP)](https://www.credly.com/badges/db57f909-79dd-4be5-990c-23d78e6dbab2/public_url)
 
 <h2> 🤳 Connect with me:</h2>
